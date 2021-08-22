@@ -1627,7 +1627,14 @@
     
     .best-selling {
         padding-top: 95px;
-        padding-bottom: 100px
+    }
+    
+    .pt-30 {
+        padding-top: 30px !important;
+    }
+    
+    .pb-100 {
+        padding-bottom: 100px !important;
     }
     
     @media only screen and (min-width: 768px) and (max-width: 991px) {
